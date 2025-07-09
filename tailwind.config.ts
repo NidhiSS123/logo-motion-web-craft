@@ -64,7 +64,7 @@ export default {
 				}
 			},
 			backgroundImage: {
-                                'hero-pattern': "url('/assets/bg.jpg')"
+                                'hero-pattern': "url('logo-motion-web-craft\public\lovable-uploads\download (1).jpg')"
                 	},
 			borderRadius: {
 				lg: 'var(--radius)',
